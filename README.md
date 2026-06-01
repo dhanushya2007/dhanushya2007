@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Dhanushya R
 
-<h3>💻 Computer Science Engineering Student | Full Stack Developer | Problem Solver</h3>
+<<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Java+Developer;DSA+Enthusiast;Competitive+Programmer;Problem+Solver;Always+Learning+New+Technologies" alt="Typing SVG" />
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+Disaster+Management+Enthusiast;1600%2B+Skillrack+Problems+Solved;Problem+Solver+🔥" />
 
@@ -173,15 +173,7 @@
 
 ---
 
-# 🐍 Contribution Snake
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
-
-</div>
-
----
 
 # 📈 Coding Profiles
 
