@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=250&section=header&text=Dhanushya%20R&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 
 # Hi 👋, I'm Dhanushya R
 
