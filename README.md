@@ -85,9 +85,7 @@
 
 ---
 
-# ⚡ Tech Stack
 
----
 
 # ⚡ Tech Stack
 
