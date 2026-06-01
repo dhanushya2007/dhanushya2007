@@ -1,86 +1,215 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,100:8A2BE2&height=250&section=header&text=Dhanushya%20R&fontSize=65&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+
 # Hi 👋, I'm Dhanushya R
 
-### Computer Science Engineering Student | Full Stack Developer | Problem Solver
+<h3>💻 Computer Science Engineering Student | Full Stack Developer | Problem Solver</h3>
 
-🎓 BE CSE Student at Sri Eshwar College of Engineering
-📊 CGPA: 8.31
-💻 MERN Stack & Spring Boot Developer
-🌍 Interested in AI, Disaster Management Systems & Full Stack Development
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Full+Stack+Developer;Spring+Boot+Developer;MERN+Stack+Developer;AI+%26+Disaster+Management+Enthusiast;1600%2B+Skillrack+Problems+Solved;Problem+Solver+🔥" />
 
----
+<br>
 
-## 🚀 About Me
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>
 
-- 🎓 Pursuing BE Computer Science Engineering (2024-2028)
-- 💻 Strong in Java, C++, Data Structures and OOP
-- 🌱 Currently learning Spring Boot, React and Cloud Technologies
-- ⚡ Solved 1600+ Skillrack Problems
-- 🏆 Winner of PaperNova at PACET
-- 🏆 1st Place in Paper Presentation at PA College of Engineering
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 🚀 About Me
 
-### Languages
-Java | C | C++ | JavaScript
+<img align="right" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-### Frontend
-HTML | CSS | React.js
+🎓 BE Computer Science Engineering Student at **Sri Eshwar College of Engineering**
 
-### Backend
-Node.js | Express.js | Spring Boot
+📊 CGPA: **8.31**
 
-### Database
-MongoDB | MySQL
+💻 Passionate about **Full Stack Development**
 
-### Tools
-Git | GitHub | VS Code | Power BI | Canva
+🌍 Interested in **Artificial Intelligence, Disaster Management Systems & Cloud Technologies**
 
----
+🌱 Currently Learning
 
-## 📂 Featured Projects
+* React.js
+* Spring Boot
+* Cloud Computing
+* AI & Machine Learning
 
-### 🌾 Hyperlocal AI Disaster Prediction & Response System
-- AI-based disaster prediction
-- Risk heatmap visualization
-- Emergency shelter identification
+⚡ Coding Achievements
 
-### 🔧 Appliance Service Management System
-- MERN Stack Project
-- Service booking management
-- CRUD operations
+* 🔥 1600+ Skillrack Problems Solved
+* 🔥 300+ LeetCode Problems Solved
+* 🔥 400+ CodeChef Problems Solved
 
-### 💊 Pharmacy Management System
-- Spring Boot + MySQL
-- Inventory management
-- Sales and supplier tracking
+🏆 Achievements
+
+* 🥇 1st Place - Paper Presentation @ PA College of Engineering
+* 🥉 3rd Place - PaperNova @ PACET
+* 🚀 Hackathon Participant @ KPR Institute of Technology
 
 ---
 
-## 🏅 Achievements
+# 🌐 Connect With Me
 
-🥉 3rd Place - PaperNova at PACET
+<div align="center">
 
-🥇 1st Place - Paper Presentation at PA College of Engineering
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-💻 Hackathon Participant - KPR Institute of Technology
+<a href="mailto:dhanushya.r2024cse@sece.ac.in">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="YOUR_GITHUB_URL">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-## 📈 Coding Profiles
+# 🏅 Achievements
 
-- Skillrack: 1600+ Problems Solved
-- LeetCode: 300+ Problems Solved
-- CodeChef: 400+ Problems Solved
-- HackerRank: 3⭐ C, 2⭐ Java, 3⭐ SQL
+<div align="center">
+
+<img src="https://img.shields.io/badge/Skillrack-1600%2B%20Solved-brightgreen?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/LeetCode-300%2B%20Solved-orange?style=for-the-badge&logo=leetcode"/>
+
+<img src="https://img.shields.io/badge/CodeChef-400%2B%20Solved-brown?style=for-the-badge&logo=codechef"/>
+
+<img src="https://img.shields.io/badge/CGPA-8.31-blue?style=for-the-badge"/>
+
+</div>
 
 ---
 
-## 📫 Connect With Me
+# ⚡ Tech Stack
 
-LinkedIn: Your LinkedIn Link
+<div align="center">
 
-Email: dhanushya.r2024cse@sece.ac.in
+<img src="https://skillicons.dev/icons?i=java,c,cpp,javascript,react,nodejs,express,spring,mongodb,mysql,git,github,vscode,powerbi&perline=7"/>
 
-GitHub: Your GitHub Profile
+</div>
+
+---
+
+# 🚀 Featured Projects
+
+## 🌾 Hyperlocal AI Disaster Prediction & Response System
+
+✨ Features
+
+* AI-based Disaster Prediction
+* Risk Heatmap Visualization
+* Emergency Shelter Identification
+* Real-Time Alert Dashboard
+* Historical Disaster Analysis
+
+---
+
+## 🔧 Appliance Service Management System
+
+✨ Features
+
+* MERN Stack Project
+* Service Booking Management
+* Admin Dashboard
+* CRUD Operations
+
+---
+
+## 💊 Pharmacy Management System
+
+✨ Features
+
+* Spring Boot + MySQL
+* Inventory Management
+* Supplier Management
+* Sales Tracking
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight"/>
+
+</div>
+
+---
+
+# 📈 GitHub Activity Graph
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night"/>
+
+</div>
+
+---
+
+# 🏆 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&row=2&column=4"/>
+
+</div>
+
+---
+
+# 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg"/>
+
+</div>
+
+---
+
+# 📈 Coding Profiles
+
+| Platform   | Achievement           |
+| ---------- | --------------------- |
+| Skillrack  | 1600+ Problems Solved |
+| LeetCode   | 300+ Problems Solved  |
+| CodeChef   | 400+ Problems Solved  |
+| HackerRank | 3⭐ C, 2⭐ Java, 3⭐ SQL |
+
+---
+
+# 💡 Developer Quote
+
+<div align="center">
+
+> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=2500&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Keep+Learning+🚀;Keep+Building+🔥;Keep+Growing+🌱" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00E5FF&height=120&section=footer"/>
