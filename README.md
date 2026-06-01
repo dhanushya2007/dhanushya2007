@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=dhanushya2007&label=Profile%20Views&color=00E5FF&style=for-the-badge"/>
 
 </div>
 
