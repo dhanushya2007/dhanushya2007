@@ -32,8 +32,8 @@
 
 * React.js
 * Spring Boot
-* Cloud Computing
-* AI & Machine Learning
+* Node.js
+* Expree.js
 
 ⚡ Coding Achievements
 
